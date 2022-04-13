@@ -1,8 +1,8 @@
 .. title: LOS TRIBUNALES TAMBIÉN SE EQUIVOCAN: Ingeniería Dinámica vs Oxyandina
 .. slug: los-tribunales-tambien-se-equivocan-ingenieria-dinamica-vs-oxyandina
 .. date: 2022-04-13 17:48:48 UTC-05:00
-.. tags: Error de hecho, tribunal de bucaramanga, omisión en la valoración de las pruebas 
-.. category: Violación indirecta de la norma
+.. tags: Error de hecho, Tribunal de Bucaramanga, Omisión en la Valoración de las Pruebas 
+.. category: Violación Indirecta de la Norma
 .. link: 
 .. description: Según la Corte Suprema de Justicia de Colombia, El Tribunal de Bucaramanga cometió un error de hecho en el caso de Ingeniería Dinámica vs Oxyandina
 .. type: text
@@ -35,4 +35,4 @@ Para la Corte no existía ninguna responsabilidad por parte de Oxyandina. ¿Porq
 
 La Corte Suprema revocó el fallo del Tribunal y en su lugar confirmó lo fallado por el Juzgado de Primera Instancia que había negado las pretensiones de Ingeniería Dinámica.
 
-Sentencia: `Link SC505-2022 <https://cortesuprema.gov.co/corte/wp-content/uploads/2022/04/SC505-2022-2016-00074-01.pdf>`_ 
+Sentencia: `SC505-2022 <https://cortesuprema.gov.co/corte/wp-content/uploads/2022/04/SC505-2022-2016-00074-01.pdf>`_ 
