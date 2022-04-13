@@ -15,11 +15,27 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2022-04-10T17:14:00Z</lastmod>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
-  <lastmod>2022-04-11T10:04:00Z</lastmod>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories/cat_violacion-indirecta-de-la-norma/</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories/error-de-hecho/</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories/omision-en-la-valoracion-de-las-pruebas/</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories/tribunal-de-bucaramanga/</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/galleries/</loc>
@@ -48,5 +64,9 @@
  <url>
   <loc>https://example.com/posts/bienvenidos/</loc>
   <lastmod>2022-04-09T18:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/posts/los-tribunales-tambien-se-equivocan-ingenieria-dinamica-vs-oxyandina/</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
  </url>
 </urlset>

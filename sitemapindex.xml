@@ -6,6 +6,22 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://example.com/categories/cat_violacion-indirecta-de-la-norma.xml</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://example.com/categories/error-de-hecho.xml</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://example.com/categories/omision-en-la-valoracion-de-las-pruebas.xml</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://example.com/categories/tribunal-de-bucaramanga.xml</loc>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://example.com/galleries/demo/rss.xml</loc>
   <lastmod>2022-04-10T17:14:00Z</lastmod>
  </sitemap>
@@ -15,10 +31,10 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
-  <lastmod>2022-04-10T16:03:00Z</lastmod>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2022-04-11T10:05:00Z</lastmod>
+  <lastmod>2022-04-13T23:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>
