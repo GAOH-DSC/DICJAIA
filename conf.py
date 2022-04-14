@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Jorge"  # (translatable)
+BLOG_AUTHOR = "Jorge Andrés Ochoa Hernández"  # (translatable)
 BLOG_TITLE = "DICJAIA INVESTIGACIONES JURÍDICAS Y ACADÉMICAS"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
